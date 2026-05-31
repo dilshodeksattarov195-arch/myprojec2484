@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvetch",
+        "uuid": 21349980,
+        "checksum": "tcva8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
